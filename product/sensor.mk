@@ -1,4 +1,3 @@
-#
 # Copyright (C) 2018 The LineageOS Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
@@ -14,6 +13,6 @@
 # limitations under the License.
 #
 
+# Sensors
  PRODUCT_PACKAGES += \
     android.hardware.sensors@1.0-service \
-	
