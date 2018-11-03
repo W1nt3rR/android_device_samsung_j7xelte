@@ -58,8 +58,8 @@ void vendor_load_properties()
         name = "j7xeltexx";
     }
 	
-    description = "j7xeltexx-user 7.0 NRD90M J710FXXU3BQJ3 release-keys";
-    fingerprint = "samsung/j7xeltexx/j7xelte:7.0/NRD90M/J710FXXU3BQJ3:user/release-keys";
+    description = "j7xeltexx-user 7.0 NRD90M J710FXXU5BRC2 release-keys";
+    fingerprint = "samsung/j7xeltexx/j7xelte:7.0/NRD90M/J710FXXU5BRC2:user/release-keys";
 
     LOG(INFO) << "Found bootloader: %s", bootloader.c_str();
     LOG(INFO) << "Setting ro.product.model: %s", model.c_str();
